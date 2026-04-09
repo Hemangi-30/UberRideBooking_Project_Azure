@@ -202,3 +202,7 @@ uvicorn api:app --reload
 ## 👤 Author
 
 **Hemangi-30**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hemangi-vaghasiya-34b645252)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:hemangivaghasiya12@gmail.com?subject=Regarding%20Your%20Data%20Engineering%20Project)
+---
