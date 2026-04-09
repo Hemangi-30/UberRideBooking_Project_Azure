@@ -12,3 +12,9 @@ wheels/
 .env
 
 not_for_you/
+
+# Ignore data folder
+data/
+
+# Ignore logs
+*.log
