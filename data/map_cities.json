@@ -1,14 +1,14 @@
 [
   {
     "city_id": 1,
-    "city": "New York  new",
+    "city": "New York",
     "state": "NY",
     "region": "Northeast",
     "updated_at":"2026-07-31T13:54:26.023+00:00"
   },
   {
     "city_id": 2,
-    "city": "New Los Angelas",
+    "city": "Los Angelas",
     "state": "CA",
     "region": "West",
     "updated_at":"2026-07-31T13:54:26.023+00:00"
